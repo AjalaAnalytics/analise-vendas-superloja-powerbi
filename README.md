@@ -4,13 +4,17 @@ Projeto de análise de dados desenvolvido em Power BI com foco em faturamento, d
 
 ---
 
-## 🎯 Objetivo do Projeto
+🎯 Perguntas de Negócio do Projeto
 
-Analisar os dados de vendas para responder perguntas como:
-- Como evolui o faturamento ao longo do tempo?
-- Quais categorias e produtos vendem mais?
-- Quais regiões apresentam melhor desempenho?
-- Existe sazonalidade nas vendas?
+Este projeto responde às seguintes perguntas estratégicas:
+
+- Como o faturamento evoluiu ao longo dos meses?
+- Quais categorias de produtos geram mais faturamento?
+- Qual o volume total de pedidos e itens vendidos?
+- Qual o percentual de pedidos entregues dentro do prazo?
+- Qual a proporção de pedidos concluídos versus cancelados?
+
+
 
 ---
 
@@ -41,11 +45,13 @@ Analisar os dados de vendas para responder perguntas como:
 
 ---
 
-## 💡 Principais Insights
+💡 Principais Insights
 
-- Identificação das categorias mais lucrativas  
-- Análise de padrões de compra ao longo do tempo  
-- Comparação de desempenho entre regiões  
+- As categorias **Móveis** e **Tecnologia** concentram a maior parte do faturamento total.
+- O faturamento apresenta crescimento consistente ao longo do ano, com pico nos últimos meses.
+- Mais de **95% dos pedidos foram concluídos**, indicando alta eficiência operacional.
+- O cumprimento do prazo de entrega está acima de **70%**, com oportunidade de melhoria logística.
+
 
 ---
 
